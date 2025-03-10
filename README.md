@@ -35,14 +35,7 @@ cd youtube-summarizer
 pip install -r requirements.txt
 ```
 
-### **3️⃣ Set Groq API Key (Optional)**
-- **For Local Testing**:
-  ```bash
-  export GROQ_API_KEY="your-api-key"
-  ```
-- **For Deployment**: Add it as a **Streamlit Secret**.
-
-### **4️⃣ Run the App**
+### **3️⃣ Run the App**
 ```bash
 streamlit run streamlit_app.py
 ```
