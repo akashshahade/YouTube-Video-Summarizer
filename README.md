@@ -26,7 +26,7 @@
 ## **🛠️ Installation & Setup**
 ### **1️⃣ Clone the Repo**
 ```bash
-git clone https://github.com/your-username/youtube-summarizer.git
+https://github.com/akashshahade/YouTube-Video-Summarizer.git
 cd youtube-summarizer
 ```
 
@@ -58,6 +58,7 @@ Feel free to contribute and improve it! 😊
 ## **💙 Developed By**
 🔹 **Akash Shahade**  
 🔹 **GitHub:** https://github.com/akashshahade
+
 🔹 **LinkedIn:** https://www.linkedin.com/in/akashshahade/
 
 ---
