@@ -1,6 +1,7 @@
 
 # **🎥 YouTube Video Summarizer 📜 (AI-Powered)**
 🚀 **A simple and powerful AI-based YouTube video summarizer** that extracts transcripts from YouTube videos and generates concise summaries using **Groq’s LLaMA 3 model**.
+![image](https://github.com/user-attachments/assets/889553b5-ee0c-4601-880b-3f8035adc59c)
 
 ---
 
