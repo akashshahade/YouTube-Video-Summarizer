@@ -58,7 +58,6 @@ Feel free to contribute and improve it! 😊
 ## **💙 Developed By**
 🔹 **Akash Shahade**  
 🔹 **GitHub:** https://github.com/akashshahade
-
 🔹 **LinkedIn:** https://www.linkedin.com/in/akashshahade/
 
 ---
