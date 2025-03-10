@@ -1,0 +1,44 @@
+Here are the main points summarized in bullet points:
+
+**Introduction**
+
+* The goal is to introduce the concept of gradient descent, which underlies how neural networks learn
+* The example used is a neural network for handwritten digit recognition (MNIST dataset)
+
+**Cost Function**
+
+* The cost function is a measure of how well the network performs on the training data
+* It is defined as the average of the squared differences between the network's output and the correct output for each training example
+* The cost function is used to guide the training process and adjust the network's weights and biases
+
+**Gradient Descent**
+
+* Gradient descent is an algorithm for minimizing the cost function
+* It involves iteratively adjusting the network's weights and biases in the direction of the negative gradient of the cost function
+* The gradient is a vector that indicates the direction of the steepest descent of the cost function
+
+**Network Structure**
+
+* The network has 784 inputs (pixel values), 2 hidden layers with 16 neurons each, and 10 outputs (digit classes)
+* The network is initialized with random weights and biases
+* The goal is to adjust the weights and biases to minimize the cost function
+
+**Learning Process**
+
+* The network is trained by iterating through the training data and adjusting the weights and biases based on the gradient of the cost function
+* The learning process is repeated until the network converges or reaches a desired level of accuracy
+
+**Performance**
+
+* The network is able to classify handwritten digits with an accuracy of around 96%
+* The network's performance is limited by the quality of the training data and the complexity of the task
+
+**Interpretation**
+
+* The network's weights and biases are difficult to interpret, but can be visualized as a set of patterns that the network is picking up on
+* The network is not necessarily learning the patterns that were intended, but is instead memorizing the training data
+
+**Future Directions**
+
+* The network can be improved by adjusting the architecture or adding more training data
+* The book "Deep Learning" by Michael Nielsen provides a more detailed explanation of the concepts and code for this example.
